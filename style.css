@@ -1,0 +1,59 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  
+
+}
+body {
+    background-image: image("images/bbq chicken.jpg");
+    padding: 50px;
+    margin: 500px;
+    font-weight: bold;
+}
+
+.image1{
+  width:10px;
+  height:100px;
+  object-fit:cover;
+}
+
+.navbar-brand{
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  color: white !important;
+}
+.navbar ul{
+  padding-left: 50%;
+  font-weight: 500px;
+}
+.navbar ul li a:hover{
+  color:yellow !important;
+}
+.navbar ul li{
+  margin-left: 40px;
+  font-size: medium;
+}
+.container-fluid{
+  background-color: black;
+}
+.navbar ul li a{
+  color:white !important;
+}
+
+.contacts{
+  background-image: url(./images/second.jpeg);
+  background-color: black;
+}
+
+.order{
+  background: red !important;
+}
+
+
+
+
+
+  
+
