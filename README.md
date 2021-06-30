@@ -4,7 +4,7 @@
 Description.
 This is a web application by me,Ginger Lauren that shows the services offered to customers effieciently acording to the types of amount of pizzas and the type of pizzas.
 
-Setup/Installation Requirement
+Setup/Installation Requirement.
 copy the url on arrow down
 Clone on your computer 
 Go live or start your server
