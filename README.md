@@ -1,5 +1,5 @@
 #  PIZZA SYSTEM
-##web application based on the Pizza system, June, 2021.
+web application based on the Pizza system, June, 2021.
 ##By GINGER LAUREN
 Description.
 This is a web application by me,Ginger Lauren that shows the services offered to customers effieciently acording to the types of amount of pizzas and the type of pizzas.
